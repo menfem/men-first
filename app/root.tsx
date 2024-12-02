@@ -256,7 +256,7 @@ function Logo() {
         epic
       </span>
       <span className="font-bold transition group-hover:translate-x-1">
-        notes
+        not!!!
       </span>
     </Link>
   );
