@@ -1,8 +1,6 @@
 {
-  "name": "men-first",
+  "name": "men-first-a780",
   "private": true,
-  "license": "MIT",
-  "author": "Kent C. Dodds <me@kentcdodds.com> (https://kentcdodds.com/)",
   "sideEffects": false,
   "type": "module",
   "imports": {
